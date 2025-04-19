@@ -12,7 +12,7 @@
 
         public byte[] PasswordSalt { get; set; }
 
-        public string Role { get; set; } = "Student"; // ممكن تبقى Admin أو Instructor أو Student
+        public string Role { get; set; } = "Student"; 
     }
 }
 
